@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  MoodDiaryDemo
+//
+//  Created by 邓旭东 on 2017/12/25.
+//  Copyright © 2017年 邓旭东. All rights reserved.
+//
+
+#ifndef PrefixHeader_h
+#define PrefixHeader_h
+
+#import "UIMacros.h"
+#import "UIColor+Expand.h"
+#import "NSString+Cache.h"
+#import "NSDate+Formatter.h"
+#import <Masonry/Masonry.h>
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import <MJExtension/MJExtension.h>
+
+#endif /* PrefixHeader_h */
